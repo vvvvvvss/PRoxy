@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitHub MCP Contribution Agent
 
 ## Run
@@ -17,3 +18,6 @@ Keep the agent (`cd agent && npm run dev`) running in another terminal.
 
 ## Tests
     cd agent && npm run e2e     # full flow with a FAKE GitHub + FAKE LLM; needs Postgres up. Touches nothing real.
+=======
+# PRoxy
+>>>>>>> 0983288d910763dc445e1009d07b56e1b006387b
